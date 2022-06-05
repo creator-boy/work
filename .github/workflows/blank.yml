@@ -9,8 +9,8 @@ on:
     types: opened
 env:
   # Change these values if you have forked it for your own works
-  GitHubMail: "rehanalt501@gmail.com"
-  GitHubName: "iamrehan07" 
+  GitHubMail: "arunsingh-creator@protonmail.com"
+  GitHubName: "creator-bot" 
   Branch: "master"
 
 jobs:
